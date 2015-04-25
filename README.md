@@ -1,1 +1,3 @@
-Files for maxmorgen.com
+#Max Morgen Website Readme
+
+Files for [maxmorgen.com](http://wwww.maxmorgen.com)
