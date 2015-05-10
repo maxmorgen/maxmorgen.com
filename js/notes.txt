@@ -1,0 +1,6 @@
+Link to javascript in HTML
+<script src="PATH"></script>
+
+
+Wait til page loads to allow running of script
+$(document).ready(main);
