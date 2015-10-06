@@ -1,3 +1,6 @@
+/*I'm a comment! in CSS*/
+<!--I'm a comment in HTML!-->
+
 Scale image to fit div
 max-width:100%;
 max-height:100%;
