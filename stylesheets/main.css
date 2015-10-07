@@ -94,18 +94,23 @@
 .fourofour p {
   font-size: 20px;
   color: white;
+  text-align: center;
 }
 .fourofour a {
   font-size: 20px;
   color: #CCFFFF;
+  text-align: center;
 }
 
 .fourofour a:link {
 color: #CCFFFF;
+text-align: center;
 }
 .fourofour a:visited {
 color: #00FFFF;
+text-align: center;
 }
 .fourofour a:hover {
 color: #66FFFF;
+text-align: center;
 }
