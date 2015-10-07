@@ -80,9 +80,7 @@
 
 .fourofour{
   background-image:url("http://i.imgur.com/kzEpfWi.jpg");
-  margin-left: auto;
-  margin-right: auto;
-  height: 600px;
+  background-position: center center;
   position: relative;
   background-repeat: no-repeat;
   background-size: contain;
@@ -95,5 +93,15 @@
 }
 .fourofour a {
   font-size: 20px;
-  color: blue;
+  color: #CCFFFF;
+}
+
+.fourofour a:link {
+color: #CCFFFF;
+}
+.fourofour a:visited {
+color: #00FFFF;
+}
+.fourofour a:hover {
+color: #66FFFF;
 }
