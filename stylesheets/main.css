@@ -80,7 +80,7 @@
 
 .fourofour{
   background-image:url("http://i.imgur.com/kzEpfWi.jpg");
-  background-position: 50% 50%;
+  background-position: center;
   height: 600px;
   background-repeat: no-repeat;
   background-size: contain;
