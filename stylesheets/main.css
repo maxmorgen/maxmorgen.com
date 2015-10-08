@@ -116,3 +116,25 @@ text-align: center;
 color: #66FFFF;
 text-align: center;
 }
+
+.jumbotron-wonz {
+  background-image:url("http://i.imgur.com/HpKbv5C.jpg");
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  max-width: 80%;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron-wonz .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron-wonz .container p {
+  font-size: 20px;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
